@@ -1,0 +1,8 @@
+
+.navbar-container img{
+    display: block;
+    margin: 0 auto;
+    object-fit: cover;
+    object-position: center;
+    width: 280px;
+}
